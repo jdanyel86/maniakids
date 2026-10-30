@@ -1,6 +1,6 @@
 /* ARQUIVO GERADO PELO GERENCIADOR DE PRODUTOS. Não edite à mão. */
 window.PRODUTOS = [
-  {"id":"MNA-001","pagina":"meninas-1","nome":"Vestido Infantil Rosa","descricao":"Um look delicado e confortável para passeios.","preco":79.9,"precoAntigo":null,"emoji":"👗","fotos":["MNA-001-1-mvtxn6z5.jpg","MNA-001-2-mvtxn77o.jpg","MNA-001-3-mvtxn7cp.jpg"],"ativo":true},
+  {"id":"MNA-001","pagina":"meninas-1","nome":"Vestido Infantil Rosa","descricao":"Um look delicado e confortável para passeios.","preco":150,"precoAntigo":null,"emoji":"👗","fotos":["MNA-001-1-mvtxn6z5.jpg","MNA-001-2-mvtxn77o.jpg","MNA-001-3-mvtxn7cp.jpg"],"ativo":true},
   {"id":"MNA-002","pagina":"meninas-1","nome":"Blusa Infantil","descricao":"Versátil e confortável para o dia a dia.","preco":39.9,"precoAntigo":null,"emoji":"👚","fotos":["","",""],"ativo":true},
   {"id":"MNA-003","pagina":"meninas-1","nome":"Conjunto Infantil","descricao":"Combinação prática para montar um look completo.","preco":89.9,"precoAntigo":null,"emoji":"🎀","fotos":["","",""],"ativo":true},
   {"id":"MNA-004","pagina":"meninas-2","nome":"Vestido Floral","descricao":"Estampa delicada e tecido leve para os dias de sol.","preco":84.9,"precoAntigo":null,"emoji":"👗","fotos":["","",""],"ativo":true},
